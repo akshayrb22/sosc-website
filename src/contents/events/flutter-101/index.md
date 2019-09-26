@@ -47,4 +47,5 @@ We'll be giving you hands-on experience on how to work with Flutter. So the even
 - [Shreyas Baliga](https://github.com/ShreyasBaliga), Flutter Lead - DSC
 - [Melwin Lobo](https://github.com/melwinlobo18), GCP Lead - DSC
 - [Afroz](https://github.com/coderhawk999), PWA Lead - DSC
+- [Adithya Suvarna](https://github.com/ekokratos)
 - [Akshay Ram Bhat](https://github.com/akshayrb22), Lead - DSC
